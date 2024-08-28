@@ -1,65 +1,44 @@
 [
   {
-    "name": "mistral",
-    "size": "4.10 GB",
-    "id": "mistral",
-    "category": "general",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam cumque quis quod iusto. Fuga quasi eius tempora itaque blanditiis totam cupiditate error dolor? Provident amet eligendi at excepturi quos nulla!"
-  },
-  {
-    "name": "gemma2",
-    "size": "5.40 GB",
-    "id": "gemma2",
-    "category": "general",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam cumque quis quod iusto. Fuga quasi eius tempora itaque blanditiis totam cupiditate error dolor? Provident amet eligendi at excepturi quos nulla!"
-  },
-  {
-    "name": "phi3",
-    "size": "2.20 GB",
-    "id": "phi3",
-    "category": "general",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam cumque quis quod iusto. Fuga quasi eius tempora itaque blanditiis totam cupiditate error dolor? Provident amet eligendi at excepturi quos nulla!"
-  },
-  {
-    "name": "llama3.1",
+    "name": "Llama 3.1 8B",
     "size": "4.70 GB",
     "id": "llama3.1",
-    "category": "general",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam cumque quis quod iusto. Fuga quasi eius tempora itaque blanditiis totam cupiditate error dolor? Provident amet eligendi at excepturi quos nulla!"
+    "category": "General Purpose - Medium",
+    "description": "Llama 3.1 is the latest state-of-the-art model from Meta"
   },
   {
-    "name": "nidumai:Q8_0",
-    "size": "2.70 GB",
-    "id": "nidumai/nidum-limitless-gemma-2bQ8_0",
-    "category": "general",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam cumque quis quod iusto. Fuga quasi eius tempora itaque blanditiis totam cupiditate error dolor? Provident amet eligendi at excepturi quos nulla!"
+    "name": "Gemma 2 2B",
+    "size": "1.60 GB",
+    "id": "gemma2:2b",
+    "category": "General Purpose - Small",
+    "description": "Gemma 2 2B is a small but high-performing and efficient model by Google"
   },
   {
-    "name": "nidumai:F16",
-    "size": "5.00 GB",
-    "id": "nidumai/nidum-limitless-gemma-2b:F16F16",
-    "category": "general",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam cumque quis quod iusto. Fuga quasi eius tempora itaque blanditiis totam cupiditate error dolor? Provident amet eligendi at excepturi quos nulla!"
+    "name": "DeepSeek Coder V2 16B",
+    "size": "8.90 GB",
+    "id": "deepseek-coder-v2",
+    "category": "Coding Tasks - Medium",
+    "description": "An open-source Mixture-of-Experts code language model for in code-specific tasks"
   },
   {
-    "name": "codegemma",
-    "size": "5.00 GB",
-    "id": "codegemma",
-    "category": "general",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam cumque quis quod iusto. Fuga quasi eius tempora itaque blanditiis totam cupiditate error dolor? Provident amet eligendi at excepturi quos nulla!"
+    "name": "Dolphin Mixtral 8x7B",
+    "size": "26.00 GB",
+    "id": "dolphin-mixtral",
+    "category": "Uncensored - Large",
+    "description": "Uncensored fine-tuned models based on the Mixtral models"
   },
   {
-    "name": "zephyr",
-    "size": "4.10 GB",
-    "id": "zephyr",
-    "category": "general",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam cumque quis quod iusto. Fuga quasi eius tempora itaque blanditiis totam cupiditate error dolor? Provident amet eligendi at excepturi quos nulla!"
+    "name": "Phi 3.5 3B",
+    "size": "2.20 GB",
+    "id": "phi3.5",
+    "category": "General Purpose - Small",
+    "description": "A lightweight AI model with 3.8B parameters with performance above its weight class"
   },
   {
-    "name": "dolphin-mistral",
-    "size": "4.10 GB",
-    "id": "dolphin-mistral",
-    "category": "general",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam cumque quis quod iusto. Fuga quasi eius tempora itaque blanditiis totam cupiditate error dolor? Provident amet eligendi at excepturi quos nulla!"
+    "name": "Command-r-plus",
+    "size": "104 GB",
+    "id": "command-r-plus",
+    "category": "General Purpose - Large",
+    "description": "Command R+ is a powerful, scalable language model designed for enterprise use."
   }
 ]
