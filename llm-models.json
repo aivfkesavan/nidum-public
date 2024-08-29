@@ -21,11 +21,11 @@
     "description": "An open-source Mixture-of-Experts code language model for in code-specific tasks"
   },
   {
-    "name": "Dolphin Mixtral 8x7B",
+    "name": "Dolphin llama3 8B",
     "size": "26.00 GB",
-    "id": "dolphin-mixtral",
+    "id": "dolphin-llama3",
     "category": "Uncensored - Large",
-    "description": "Uncensored fine-tuned models based on the Mixtral models"
+    "description": "Uncensored fine-tuned models based on the llama3 8B model"
   },
   {
     "name": "Phi 3.5 3B",
