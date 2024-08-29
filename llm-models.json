@@ -9,7 +9,7 @@
   {
     "name": "Gemma 2 2B",
     "size": "1.60 GB",
-    "id": "gemma2:2b-instruct-q4_0",
+    "id": "gemma2:9b",
     "category": "General Purpose - Small",
     "description": "Gemma 2 2B is a small but high-performing and efficient model by Google"
   },
