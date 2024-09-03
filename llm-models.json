@@ -33,5 +33,12 @@
     "id": "phi3.5",
     "category": "General Purpose - Small",
     "description": "A lightweight AI model with 3.8B parameters with performance above its weight class (Needs 4GB RAM)"
+  },
+  {
+    "name": "LLAVA 7B (Vision)",
+    "size": "4.70 GB",
+    "id": "llava:7b",
+    "category": "General Purpose - Large",
+    "description": "A AI model with image processing capabilities (Needs 8GB RAM)"
   }
 ]
