@@ -17,7 +17,7 @@
     "name": "DeepSeek Coder V2 16B",
     "size": "8.90 GB",
     "id": "deepseek-coder-v2",
-    "category": "Coding Tasks - Medium",
+    "category": "Coding - Medium",
     "description": "This Q4 open-source Mixture-of-Experts code language model for in code-specific tasks (Needs 9GB RAM)"
   },
   {
@@ -45,7 +45,7 @@
     "name": "LLAVA 7B (Vision)",
     "size": "4.70 GB",
     "id": "llava:7b",
-    "category": "General Purpose - Vision",
+    "category": "Vision - Medium",
     "description": "A Q4 AI model with image processing capabilities (Needs 8GB RAM)"
   }
 ]
