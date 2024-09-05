@@ -21,7 +21,7 @@
     "description": "This Q4 open-source Mixture-of-Experts code language model for in code-specific tasks (Needs 9GB RAM)"
   },
   {
-    "name": "Dolphin llama3 8B",
+    "name": "Dolphin Llama 3.1 8B",
     "size": "4.7GB GB",
     "id": "dolphin-llama3",
     "category": "Uncensored - Medium",
@@ -42,7 +42,7 @@
     "description": "Llama 3.1 70B Q4 is the latest state-of-the-art model from Meta (Needs 50GB RAM)"
   },
   {
-    "name": "LLAVA 7B (Vision)",
+    "name": "LLaVA 7B (Vision)",
     "size": "4.70 GB",
     "id": "llava:7b",
     "category": "Vision - Medium",
