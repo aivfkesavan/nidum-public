@@ -42,6 +42,13 @@
     "description": "Llama 3.1 70B Q4 is the latest state-of-the-art model from Meta (Needs 50GB RAM)"
   },
   {
+    "name": "Reflection Llama 3.1 70B",
+    "size": "43 GB",
+    "id": "reflection",
+    "category": "General Purpose - Large",
+    "description": "reflection Llama 3.1 70B Q4 is the latest state-of-the-art model from Meta (Needs 50GB RAM)"
+  },
+  {
     "name": "LLaVA 7B (Vision)",
     "size": "4.70 GB",
     "id": "llava:7b",
