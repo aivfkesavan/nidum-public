@@ -42,11 +42,11 @@
     "description": "Llama 3.1 70B Q4 is the latest state-of-the-art model from Meta (Needs 50GB RAM)"
   },
   {
-    "name": "Reflection Llama 3.1 70B",
-    "size": "43 GB",
+    "name": "Reflection 70B",
+    "size": "40 GB",
     "id": "reflection",
     "category": "General Purpose - Large",
-    "description": "reflection Llama 3.1 70B Q4 is the latest state-of-the-art model from Meta (Needs 50GB RAM)"
+    "description": "A high-performing model (Q4) trained with a new technique called Reflection-tuning that teaches a LLM to detect mistakes in its reasoning and correct course. (Needs 50GB RAM)"
   },
   {
     "name": "LLaVA 7B (Vision)",
