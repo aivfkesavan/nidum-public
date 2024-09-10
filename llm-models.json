@@ -44,7 +44,7 @@
   {
     "name": "Llama 3.1 70B",
     "size": "43 GB",
-    "id": "phi3.5",
+    "id": "llama3.1:70b",
     "category": "General Purpose - Large",
     "description": "Llama 3.1 70B Q4 is the latest state-of-the-art model from Meta (Needs 50GB RAM)"
   },
