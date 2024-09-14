@@ -35,13 +35,6 @@
     "description": "Uncensored Q4 version of Eric Hartford's fine-tuned models based on the Llama models (Needs 8GB RAM)"
   },
   {
-    "name": "Phi 3.5 3B",
-    "size": "2.20 GB",
-    "id": "phi3.5",
-    "category": "General Purpose - Small",
-    "description": "A lightweight AI model with 3.8B parameters Q4 with performance above its weight class (Needs 4GB RAM)"
-  },
-  {
     "name": "Llama 3.1 70B",
     "size": "43 GB",
     "id": "llama3.1:70b",
