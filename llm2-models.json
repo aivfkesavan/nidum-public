@@ -60,7 +60,6 @@
   "file_name": "Llama-3.1-Nemotron-70B-Instruct-HF.i1-Q4_K_M.gguf",
   "hf_link": "hf:mradermacher/Llama-3.1-Nemotron-70B-Instruct-HF-i1-GGUF/Llama-3.1-Nemotron-70B-Instruct-HF.i1-Q4_K_M.gguf",
   "category": "Specialized - Large",
-  "description": "Llama-3.1-Nemotron-70B-Instruct is a large language model customized by NVIDIA to improve the helpfulness of LLM-generated responses to user queries. It ranks #1 across Arena Hard (85.0), AlpacaEval 2 LC (57.6), and GPT-4-Turbo MT-Bench (8.98). Trained using RLHF with REINFORCE and HelpSteer2 prompts, this model excels in alignment. It was designed to work in HuggingFace's Transformers codebase but retains some differences from its original NeMo-Aligner version. Requires 35GB RAM."
+  "description": "Customized by NVIDIA to improve LLM responses through RLHF with REINFORCE and HelpSteer2. It ranks #1 on Arena Hard, AlpacaEval 2 LC, and GPT-4-Turbo MT-Bench."
 }
-
 ]
