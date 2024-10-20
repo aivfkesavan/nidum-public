@@ -55,7 +55,7 @@
   },
  {
   "name": "Llama-3.1-Nemotron-70B-Instruct",
-  "size": "35.00 GB",
+  "size": "40.00 GB",
   "id": "llama-3.1-nemotron-70b",
   "file_name": "Llama-3.1-Nemotron-70B-Instruct-HF.i1-Q4_K_M.gguf",
   "hf_link": "hf:mradermacher/Llama-3.1-Nemotron-70B-Instruct-HF-i1-GGUF/Llama-3.1-Nemotron-70B-Instruct-HF.i1-Q4_K_M.gguf",
