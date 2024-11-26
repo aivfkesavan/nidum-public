@@ -1,0 +1,5 @@
+{
+  "url": "https://cluster.chain.nidum.ai/v1/chat/completions",
+  "apiKey": "nidum_OPokoPJuGeARxS6PUGjZWGdyb3FYJYyAB04jk9cScnqYzIbwNsKr",
+  "model": "dolphin-2.9.4-llama3.1-8b"
+}
