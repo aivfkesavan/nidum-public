@@ -1,7 +1,7 @@
 [
   {
-    "name": "Meta Llama 3 70B",
-    "id": "llama3-70b-8192"
+    "name": "Meta Llama 3.3 70B",
+    "id": "llama-3.3-70b-specdec"
   },
   {
     "name": "Meta Llama 3 8B",
